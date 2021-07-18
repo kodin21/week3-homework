@@ -23,3 +23,7 @@
     ```
 
 - Olsa iyi olur: Uygulamanızi bir link üzerinden yayınlamayı  deneyin (deploy). Yayınlayabilirseniz readme dosyanıza live preview olarak o linki ekleyin. Kullanabileceğiniz örnek servisler: Vercel, Netlify (Başka yöntem kullanmakta özgürsünüz)
+
+
+## API Link
+https://restcountries.eu/rest/v2/all
